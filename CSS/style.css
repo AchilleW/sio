@@ -1,0 +1,21 @@
+body {
+    margin : 0;
+}
+
+
+/* NAV */
+.nav, .footer {
+    background-color: #007bff;
+    
+}
+
+.nav a {
+    color: #fff;
+}
+
+.footer {
+    margin-top: 10px;
+    color: #fff;
+}
+
+/* FOOTER */
